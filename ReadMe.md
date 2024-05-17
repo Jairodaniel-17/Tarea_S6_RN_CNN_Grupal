@@ -43,8 +43,6 @@ Este proyecto incluye varios scripts de Python para entrenar, evaluar y utilizar
 - **Aplicación**: El modelo puede ser utilizado para predecir la malignidad de tumores de mama en nuevos datos no vistos, proporcionando una herramienta valiosa para ayudar en el diagnóstico médico.
 - **Reutilización**: Gracias a su modularidad y capacidad de exportación a ONNX, el modelo se puede integrar fácilmente en diferentes aplicaciones o entornos, incluyendo aplicaciones móviles, servicios web, y otros sistemas de soporte de decisiones médicas.
 
-En resumen, este proyecto demuestra cómo construir, entrenar, evaluar y utilizar un modelo de CNN para la clasificación binaria en el dominio médico, proporcionando una base sólida para futuras aplicaciones y mejoras en el área de diagnóstico de cáncer de mama.
-
 ### Estructura de Carpetas
 
 ```plaintext
