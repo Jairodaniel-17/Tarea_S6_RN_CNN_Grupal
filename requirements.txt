@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.2
+pydantic==2.7.0
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+sqlmodel==0.0.17
+SQLAlchemy==2.0.29
+matplotlib
+scikit-learn
